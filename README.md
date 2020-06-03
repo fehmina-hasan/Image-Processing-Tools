@@ -6,9 +6,12 @@ In this project I used C to implement the basic utility functions of the Image P
 ## Implementation
 
 In order to test out the code and use these basic tools to edit your Image follow the steps below:
-• Open Terminal and navigate into the scripts folder directory
-• Type "bash script01.sh ../ImageLibrary"
-• Now that the ImageLibrary is all loaded and compiled, use any of the command lines below to execute the utilities:
+
+   • Open Terminal and navigate into the scripts folder directory
+
+   • Type "bash script01.sh ../ImageLibrary"
+
+   • Now that the ImageLibrary is all loaded and compiled, use any of the command lines below to execute the utilities:
 
         {./utility}  {Image directory}  {Output directory} 
 
