@@ -6,15 +6,15 @@ In this project I used C to implement the basic utility functions of the Image P
 ## Implementation
 
 In order to test out the code and use these basic tools to edit your Image follow the steps below:
-    • Open Terminal and navigate into the scripts folder directory
-    • Type "bash script01.sh ../ImageLibrary"
-    • Now that the ImageLibrary is all loaded and compiled, use any of the command lines below to execute the utilities:
-        {./utility}  {Image directory}  {Output directory} 
-        ./gray ../../Images/Renoir.tga ../Output/
-        ./mirrorH ../../Images/Renoir.tga ../Output/
-        ./mirrorV ../../Images/Renoir.tga ../Output/
-        ./comp ../../Images/Renoir.tga ../../Images/bottles.tga
-        ./crop ../../Images/Renoir.tga ../Output/ 145 20 97 150
+• Open Terminal and navigate into the scripts folder directory
+• Type "bash script01.sh ../ImageLibrary"
+• Now that the ImageLibrary is all loaded and compiled, use any of the command lines below to execute the utilities:
+{./utility}  {Image directory}  {Output directory} 
+./gray ../../Images/Renoir.tga ../Output/
+./mirrorH ../../Images/Renoir.tga ../Output/
+./mirrorV ../../Images/Renoir.tga ../Output/
+./comp ../../Images/Renoir.tga ../../Images/bottles.tga
+./crop ../../Images/Renoir.tga ../Output/ 145 20 97 150
         
  
 ## File Details
